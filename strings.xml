@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVG Maker</string>
+    <string name="hint">ছবি বেছে নিন (PNG / JPG)</string>
+    <string name="pick">ছবি বাছুন</string>
+    <string name="convert">SVG বানান</string>
+    <string name="colors_label">রঙের সংখ্যা: %1$d</string>
+    <string name="speckle_label">নয়েজ ফিল্টার: %1$d</string>
+    <string name="smooth">মসৃণ কার্ভ</string>
+    <string name="show_original">অরিজিনাল দেখুন</string>
+    <string name="show_svg">SVG দেখুন</string>
+    <string name="save">সেভ করুন</string>
+    <string name="need_image">আগে একটি ছবি বাছুন</string>
+    <string name="need_svg">আগে SVG বানান</string>
+    <string name="saved">সেভ হয়েছে</string>
+    <string name="failed">কাজ হয়নি, আবার চেষ্টা করুন</string>
+</resources>
